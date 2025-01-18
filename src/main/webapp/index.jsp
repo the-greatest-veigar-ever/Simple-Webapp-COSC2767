@@ -15,7 +15,7 @@
     <!-- The content of the website starts here now! -->
     <div class="jumbotron">
       <h1 class="display-4">[Live Coding in Lecture, Hi Class] Hello DevOps Students of RMIT Vietnam!</h1>
-      <p class="lead">Editted at 12:52 VN time</p>
+      <p class="lead">Editted at 14:29 VN time</p>
       <p class="lead">Amen...</p>
       <hr class="my-4">
       <p>You can visit the website of School of Science, Engineering and Technology (SSET) of RMIT Vietnam by clicking to the button below!</p>
